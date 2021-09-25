@@ -1,2 +1,2 @@
 # OlaMundo
- Primeiro repositório
+ Primeiro repositório criado com sucesso.
